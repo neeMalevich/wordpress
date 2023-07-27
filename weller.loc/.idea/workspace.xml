@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d2dbdb3-7b0e-49b7-ba6c-9144b88d3826" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LhA7VWBASFifRs1sigb76NUpxN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="PHP" />
+    <property name="last_opened_file_path" value="D:/cropas/zalog.by" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\wp-nuts\weller.loc\wp-content\themes\weller" />
+      <recent name="C:\OpenServer\domains\wp-nuts\weller.loc\wp-content\themes\weller\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\wp-nuts\weller.loc\wp-content\themes\weller\blocks" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d2dbdb3-7b0e-49b7-ba6c-9144b88d3826" name="Changes" comment="" />
+      <created>1676312773684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676312773684</updated>
+      <workItem from="1676312775167" duration="22638000" />
+      <workItem from="1676358785072" duration="15421000" />
+      <workItem from="1676414013849" duration="18378000" />
+      <workItem from="1676474110958" duration="38599000" />
+      <workItem from="1676581664492" duration="25599000" />
+      <workItem from="1676677700697" duration="1395000" />
+      <workItem from="1676761489333" duration="1631000" />
+      <workItem from="1676839749727" duration="23130000" />
+      <workItem from="1676963151206" duration="23013000" />
+      <workItem from="1680041603760" duration="23722000" />
+      <workItem from="1680466565748" duration="35527000" />
+      <workItem from="1680554199491" duration="7906000" />
+      <workItem from="1680593409717" duration="28803000" />
+      <workItem from="1680680205730" duration="1509000" />
+      <workItem from="1680681991743" duration="15436000" />
+      <workItem from="1680764119244" duration="13685000" />
+      <workItem from="1680957213421" duration="12471000" />
+      <workItem from="1681055895049" duration="3766000" />
+      <workItem from="1681082902435" duration="13486000" />
+      <workItem from="1683706852890" duration="16180000" />
+      <workItem from="1683795530193" duration="1262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
